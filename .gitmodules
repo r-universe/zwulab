@@ -5,3 +5,12 @@
 [submodule "DPComb"]
 	path = DPComb
 	url = https://github.com/zwulab/dpcomb
+[submodule "GFisher"]
+	path = GFisher
+	url = https://github.com/zwulab/gfisher
+[submodule "Qapprox"]
+	path = Qapprox
+	url = https://github.com/zwulab/qapprox
+[submodule "SetTest"]
+	path = SetTest
+	url = https://github.com/zwulab/settest
